@@ -9,7 +9,7 @@
 ### 📗 서고 현황  
 |  카테고리  |     이름     |   저자   |  상태  |  날짜  |
 |:------:|:----------:|:------:|:---:|:----------:|  
-|    ARCH    |      [Clean Architecture](https://github.com/hhee4455/MyLibrary/tree/0cb0c61210848eb41530a059e6063ce9e7f95080/Clean%20Architecture-%EB%A1%9C%EB%B2%84%ED%8A%B8.C%20%EB%A7%88%ED%8B%B4)      |    로버트.C 마틴    |   📙  |  2025.03.01 ~
+|    ARCH    |      [Clean Architecture](https://github.com/hhee4455/MyLibrary/tree/main/Clean%20Architecture-%EB%A1%9C%EB%B2%84%ED%8A%B8.C%20%EB%A7%88%ED%8B%B4)      |    로버트.C 마틴    |   📙  |  2025.03.01 ~
 
 _* 📗: 공부 후 내용 정리를 완료함 / 📙: 아직 공부하는 중 또는 아직 정리하는 중 / 📕: 공부할 예정_  
 
