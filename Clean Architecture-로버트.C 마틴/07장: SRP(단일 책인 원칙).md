@@ -14,7 +14,6 @@
 
 ## 📗 징후 1: 우발적 중복
 <img src="../Clean Architecture-로버트.C 마틴/img/7_1.png" alt="설명" width="400" style="display: block; margin: auto;">
-<br>
 
 위 클래스는 **SRP를 위반**하고 있다.  
 이유는 서로 다른 세 명의 액터가 책임지는 기능을 포함하고 있기 때문이다.
@@ -56,13 +55,11 @@
 - 이를 통해 "우연한 중복(Accidental Duplication)"을 방지할 수 있다.  
 
 <img src="../Clean Architecture-로버트.C 마틴/img/7_2.png" alt="설명" width="400" style="display: block; margin: auto;">
-<br>
 
 하지만 이 방법은 개발자가 세 개의 클래스를 직접 생성하고 추적해야 한다는 단점이 있다.  
 이를 해결하기 위해 **퍼사드(Facade) 패턴**을 사용할 수 있다.  
 
 <img src="../Clean Architecture-로버트.C 마틴/img/7_3.png" alt="설명" width="400" style="display: block; margin: auto;">
-<br>
 
 - `EmployeeFacade` 클래스는 실제 로직을 담지 않고,  
   필요한 객체를 생성하고 메서드 호출을 적절한 클래스로 위임하는 역할을 한다.  
@@ -71,7 +68,6 @@
 두 번째 방법은 가장 중요한 업무 규칙을 데이터와 가깝게 배치하는 방식이다.  
 
 <img src="../Clean Architecture-로버트.C 마틴/img/7_4.png" alt="설명" width="400" style="display: block; margin: auto;">
-<br>
 
 일각에서는 **각 클래스가 단 하나의 메서드만 가져야 한다는 주장**을 펼치지만,  
 이는 현실적이지 않다.  
