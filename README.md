@@ -12,7 +12,7 @@
 |  카테고리  |     이름     |   저자   |  상태  |  날짜  |
 |:------:|:----------:|:------:|:---:|:----------:|  
 | **ARCH** | [Clean Architecture](https://github.com/hhee4455/MyLibrary/tree/main/Clean%20Architecture-%EB%A1%9C%EB%B2%84%ED%8A%B8.C%20%EB%A7%88%ED%8B%B4) | 로버트 C. 마틴 | 📙 | 2025.03.01 ~ |  
-| **PY** | 파이썬 클린 코드 | 마리아노 아나야 | 📙 | 2025.04.02 ~ |  
+| **PY** | [파이썬 클린 코드](https://github.com/hhee4455/MyLibrary/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%81%B4%EB%A6%B0%20%EC%BD%94%EB%93%9C-%EB%A7%88%EB%A6%AC%EC%95%84%EB%85%B8%20%EC%95%84%EB%82%98%EC%95%BC) | 마리아노 아나야 | 📙 | 2025.04.02 ~ |  
 | **DE** | 빅데이터를 지탱하는 기술 | 니시다케이스케 | 📕 | 4월 예정 |  
 
 📌 **상태 표시 기준**  
